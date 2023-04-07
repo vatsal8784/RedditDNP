@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Domain.Models
 {
-    internal class User
+    public class User
     {
+        public int Id { get; set; }
+        public string Username { get; set; }
+        public string Password { get; set; }
+        // Add any additional properties needed for your application, such as Email, etc.
     }
 }
