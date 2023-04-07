@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vatsal\\RiderProjects\\RedditAppDNP\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\drago\\Source\\Repos\\RedditDNP\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vatsal\\RiderProjects\\RedditAppDNP\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\drago\\Source\\Repos\\RedditDNP\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vatsal\\RiderProjects\\RedditAppDNP\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\drago\\Source\\Repos\\RedditDNP\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Vatsal\\RiderProjects\\RedditAppDNP\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\Vatsal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vatsal\\RiderProjects\\RedditAppDNP\\WebAPI\\obj\\",
+        "projectPath": "C:\\Users\\drago\\Source\\Repos\\RedditDNP\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drago\\Source\\Repos\\RedditDNP\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vatsal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -78,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
