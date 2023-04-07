@@ -1,4 +1,5 @@
 using System.Text;
+using Application.Services;
 using Application.Shared.Auth;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
@@ -28,7 +29,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
     };
 });
 
-
+builder.Services.AddScoped<IAuthService, AuthService>();
 
 var app = builder.Build();
 
