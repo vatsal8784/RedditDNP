@@ -1,0 +1,74 @@
+# Visual Studio and Rider files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.ide/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Rr]eport/
+
+# Visual Studio cache files
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio cache files - .NET Core and .NET Standard projects
+*.nuget.props
+*.nuget.targets
+
+# ReSharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper.user
+*.DotSettings.user
+
+# Rider files
+.idea/
+*.DotSettings
+
+# User-specific files
+*.rsuser
+*.dotCover
+
+# Mono auto-generated files
+mono_crash.*
+
+# Unity3D auto-generated files
+sysinfo.txt
+
+# MSBuild Files
+*.pidb
+*.svclog
+*.dbmdl
+*.dbproj.schemaview
+
+# Azure DevOps output
+*.jfm
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+*.log
+
+# Misc
+.DS_Store
+._*
+*~
+*.swp
+*.userprefs
+test-results/
+publish/
