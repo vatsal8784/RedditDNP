@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "B766o0X1aq+oDWittdVC6L3QRTvW+GwPy87y3kgipMQdlfa1zEz3Oz4JSXGahqiNBIhIVi/DB6tvAhVw7CcVxw==",
+  "dgSpecHash": "E0U1AAb5comWWH2ihYNUhUSEecwIMbKdtIBM9pnDSZP82EXWRngjmbl8djI/PRXsk2YQ9X6DacJEfydEOqmuXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Vatsal\\RiderProjects\\RedditAppDNP\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Vatsal\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.4\\microsoft.aspnetcore.authorization.7.0.4.nupkg.sha512",
     "C:\\Users\\Vatsal\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.4\\microsoft.aspnetcore.components.7.0.4.nupkg.sha512",
     "C:\\Users\\Vatsal\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.4\\microsoft.aspnetcore.components.analyzers.7.0.4.nupkg.sha512",
+    "C:\\Users\\Vatsal\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\7.0.4\\microsoft.aspnetcore.components.authorization.7.0.4.nupkg.sha512",
     "C:\\Users\\Vatsal\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.4\\microsoft.aspnetcore.components.forms.7.0.4.nupkg.sha512",
     "C:\\Users\\Vatsal\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.4\\microsoft.aspnetcore.components.web.7.0.4.nupkg.sha512",
     "C:\\Users\\Vatsal\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.4\\microsoft.aspnetcore.components.webassembly.7.0.4.nupkg.sha512",
