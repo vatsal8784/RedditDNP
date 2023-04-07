@@ -13,16 +13,10 @@ public class RegisterDTO
     public String Password { get; set; }
     
     [Required]
-    [Compare("Password")]
-    [DataType(DataType.Password)]
-    public String ConfirmPassword { get; set; }
-    
+    public String Name { get; set; }
+
     [Required]
-    public String FirstName { get; set; }
+    public String UserName{ get; set; }
     
-    [Required]
-    public String LastName { get; set; }
-    
-    [Required]
-    public String DisplayName { get; set; }
+    public int Age { get; set; }
 }
